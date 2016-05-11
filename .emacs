@@ -62,9 +62,6 @@
 (ido-vertical-mode t)
 (window-numbering-mode t)
 
-
-(desktop-save-mode t)
-
 ;; Setting frame title to file path
 (setq frame-title-format
       (list (format "%s %%S: %%j " (system-name))
