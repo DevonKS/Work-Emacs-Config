@@ -1,0 +1,62 @@
+((("return" .
+   [1 0 0 0 0 0])
+  ("true" .
+   [1 0 0 0])
+  ("None" .
+   [1 0 0 0])
+  ("BookingAppointmentContext" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Option" .
+   [0 0 0 0 0 1])
+  ("Initialize" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("bookingViewModel" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1])
+  ("downcase" .
+   [0 0 0 1 0 0 0 0])
+  ("string=" .
+   [1 0 0 0 0 0 0])
+  ("path" .
+   [3 0 0 0])
+  ("branch" .
+   [1 0 0 0 0 1])
+  ("require" .
+   [2 0 0 0 0 0 0])
+  ("defun" .
+   [2 0 0 0 0])
+  ("add-to-list" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("find-file" .
+   [0 0 0 0 1 0 0 0 0])
+  ("csharp-mode" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("omnisharp" .
+   [1 0 0 0 1 0 0 0 3])
+  ("auto-complete" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("setq" .
+   [5 0 0 0])
+  ("Facility" .
+   [1 0 0 0 0 0 0 0])
+  ("uses" .
+   [1 0 0 0])
+  ("funding" .
+   [1 0 0 0 0 0 0])
+  ("record" .
+   [1 0 0 0 0 0])
+  ("create" .
+   [1 0 0 0 0 0])
+  ("referral." .
+   [0 0 0 0 0 0 0 0 1])
+  ("goto-HIS-File" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("relative-line-numbers" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("interactive" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("global-set-key" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("open-current-solution" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("MaxLength" .
+   [0 0 0 0 1 0 0 0 0])))

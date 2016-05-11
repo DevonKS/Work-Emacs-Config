@@ -1,0 +1,168 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("c:/Users/devons/AppData/Roaming/.emacs.d/elpa/" . "omnisharp-20151210.1114/")
+ ("c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement.Tests/Domain/" . "LocalAlertTests/")
+ ("c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement.Tests/" . "Domain/")
+ ("c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement/" . "Domain/")
+ ("c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/" . "Orchestral.Pas.AlertManagement.Tests/")
+ ("c:/Source/HIS/Feature/10.2/Code/Pas/" . "AlertManagement/")
+ ("c:/Source/HIS/Feature/10.2/Code/" . "Pas/")
+ ("c:/Source/HIS/Feature/10.2/" . "Code/")
+ ("c:/Source/HIS/Feature/" . "10.2/")
+ ("c:/Source/HIS/Main/Code/SystemServices/UI/Gcs.Sys.UI.WPFControls/StyleSheets/" . "Orion/")
+ ("c:/Source/HIS/Main/Code/PatientManagement/" . "Patient/")
+ ("c:/Source/HIS/Main/Code/" . "PatientManagement/")
+ ("c:/Source/HIS/Main/" . "Code/")
+ ("c:/Source/HIS/" . "Feature/")
+ ("c:/Source/" . "HIS/")
+ ("c:/Users/devons/AppData/Roaming/" . ".emacs.d/")
+ ("c:/Users/devons/AppData/" . "Roaming/")
+ ("c:/Users/devons/AppData/Roaming/.emacs.d/" . "elpa/")
+ ("c:/Users/devons/" . "Desktop/")
+ ("c:/Users/" . "devons/")
+ ("c:/" . "Users/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "c:/"
+ "c:/Source/HIS/Main/Code/PatientManagement/Patient/"
+ "c:/Users/devons/AppData/Roaming/.emacs.d/elpa/omnisharp-20151210.1114/"
+ "c:/Users/devons/AppData/Roaming/.emacs.d/"
+ "c:/Users/devons/AppData/Roaming/.emacs.d/elpa/init-open-recentf-20151106.2023/"
+ "c:/Users/devons/AppData/Roaming/.emacs.d/elpa/hl-line+-20151231.1339/"
+ "c:/Users/devons/AppData/Roaming/"
+ "c:/Users/devons/AppData/Roaming/.emacs.d/elpa/flycheck-20160504.237/"
+ "c:/Users/devons/AppData/Roaming/.emacs.d/elpa/csharp-mode-20160414.222/"
+ "c:/Users/devons/AppData/Roaming/.emacs.d/elpa/csharp-mode-20160326.1409/"
+ "c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement/"
+ "c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement.Tests/Domain/LocalAlertTests/"
+ "c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement/Domain/"
+ "c:/Users/devons/Desktop/"
+ "c:/Program Files (x86)/emacs/bin/"
+ "c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/Domain/"
+ "c:/Source/HIS/Main/Code/SystemServices/UI/Gcs.Sys.UI.WPFControls/StyleSheets/Orion/"
+ "c:/Source/HIS/Main/Code/Infrastructure/Framework/Orchestral.Infrastructure.Framework.Desktop.Wpf/"
+ "c:/Source/HIS/Main/Code/Infrastructure/Framework/Orchestral.Infrastructure.Framework.Desktop.Wpf/Styles/"
+ "c:/Users/devons/AppData/Roaming/.emacs.d/lisp/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "asdasdasdasda"
+ "Gcs.PM.Patient.PatientClassValidation.vsmdi"
+ "example-config-for-evil-mode.el"
+ "recentf"
+ "init-open-recentf.el"
+ "hl-line+.el"
+ ".emacs"
+ "flycheck.el"
+ "csharp-mode.el"
+ "omnisharp.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("c:/Source/HIS/" (22319 41124 0 0) "Rel/" "Prototypes/" "Main/" "Feature/" "BuildProcessTemplates/" "../" "./")
+
+ ("c:/Source/HIS/Main/Code/Infrastructure/Framework/Orchestral.Infrastructure.Framework.Desktop.Wpf/Styles/" (22314 19185 0 0) "Typography.xaml" "TreeView.xaml" "ToolTip.xaml" "TextBox.xaml" "TaskControl.xaml" "TagList.xaml" "TabControl.xaml" "TabContainer.xaml" "StandardFonts.xaml" "Separator.xaml" "SearchHeader.xaml" "ReadOnlyContent.xaml" "PopupListView.xaml" "PopupListBox.xaml" "MenuButton.xaml" "ListView.xaml" "ListSelector.xaml" "ListBox.xaml" "InternalControls.xaml" "GridSection.xaml" "FormSection.xaml" "FormItem.xaml" "Form.xaml" "Detail.xaml" "DecoratedBlock.xaml" "DatePicker.xaml" "DataSelector.xaml" "ControlStrip.xaml" "ContextMenu.xaml" "Container.xaml" "ComboBox.xaml" "Card.xaml" "Calendar.xaml" "Button.xaml" "Block.xaml" "Baseboard.xaml" "All.xaml" "../" "./")
+
+ ("c:/Source/HIS/Main/Code/Infrastructure/Framework/Orchestral.Infrastructure.Framework.Desktop.Wpf/" (22312 62279 0 0) "VisualAncestorHelper.cs" "Themes/" "ThemeManager.cs" "Theme.cs" "Styles/" "StringArrayConverter.cs" "StandardColors.cs" "Resources/" "ResourceKeys.cs" "Properties/" "Orchestral.Infrastructure.Framework.Desktop.Wpf.csproj.vspscc" "Orchestral.Infrastructure.Framework.Desktop.Wpf.csproj" "obj/" "LogicalChildrenHelper.cs" "Localization/" "LeftMarginMultiplierConverter.cs" "IconStrings.cs" "IBindingExtension.cs" "Helpers.cs" "Controls/" "BindingExtensionBase.cs" "bin/" "Behaviors/" "AutomationPeerHelper.cs" "Automation/" "../" "./")
+
+ ("c:/Users/devons/Desktop/" (22316 2246 0 0) "scratch.cs" "PuTTY.lnk" "junk.txt" "emacs-c#-setup" "desktop.ini" "cheatsheets/" "20160413_110003.jpg" "20160413_072604.jpg" ".emacs" "../" "./")
+
+ ("c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement/Domain/" (22306 53778 0 0) "LocalAlertSeverity.cs" "LocalAlert.cs" "../" "./")
+
+ ("c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement.Tests/Domain/LocalAlertTests/" (22306 49614 0 0) "TypeRcdTests.cs" "StartDateTests.cs" "PatientIdTests.cs" "LocalAlertTestBase.cs" "LocalAlertSeverityTests.cs" "IdTests.cs" "GroupRcdTests.cs" "GenericTests.cs" "../" "./")
+
+ ("c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement/" (22306 49614 0 0) "Properties/" "Orchestral.Pas.AlertManagement.csproj.vspscc" "Orchestral.Pas.AlertManagement.csproj.user" "Orchestral.Pas.AlertManagement.csproj" "obj/" "LocalAlertMole.cs" "ILocalAlertMoleDataProvider.cs" "IAlertManagementService.cs" "Domain/" "BusinessObject/" "bin/" "Auth/" "../" "./")
+
+ ("c:/Users/devons/AppData/Roaming/.emacs.d/elpa/flycheck-20160504.237/" (22314 40423 0 0) "flycheck.elc" "flycheck.el" "flycheck-pkg.el" "flycheck-ert.elc" "flycheck-ert.el" "flycheck-buttercup.el" "flycheck-autoloads.el" "../" "./")
+
+ ("c:/Users/devons/AppData/Roaming/.emacs.d/elpa/init-open-recentf-20151106.2023/" (22315 47666 0 0) "init-open-recentf.elc" "init-open-recentf.el" "init-open-recentf-pkg.el" "init-open-recentf-autoloads.el" "../" "./")
+
+ ("c:/Users/devons/AppData/Roaming/.emacs.d/" (22319 64944 0 0) "snippets/" "recentf" "lisp/" "ido.last" "elpa/" "auto-save-list/" "ac-comphist.dat" ".persistent-scratch" "../" "./")
+
+ ("c:/Users/devons/AppData/Roaming/.emacs.d/elpa/omnisharp-20151210.1114/" (22319 46831 0 0) "omnisharp.elc" "omnisharp.el" "omnisharp-utils.elc" "omnisharp-utils.el" "omnisharp-settings.elc" "omnisharp-settings.el" "omnisharp-server-actions.elc" "omnisharp-server-actions.el" "omnisharp-pkg.el" "omnisharp-autoloads.el" "omnisharp-auto-complete-actions.elc" "omnisharp-auto-complete-actions.el" "example-config-for-evil-mode.elc" "example-config-for-evil-mode.el" "../" "./")
+
+ ("c:/Users/devons/AppData/Roaming/" (22319 52669 0 0) "winscp.rnd" "VMware/" "vlc/" "Sun/" "Sublime Text 3/" "Skype/" "Sergey Vlasov/" "Scooter Software/" "PCDr/" "OrionHealthHIS/" "Orion Health/" "NuGet/" "Microsoft FxCop/" "Microsoft/" "Macromedia/" "JetBrains/" "Intel Corporation/" "Intel/" "Emacs-Live .emacs.d/" "Dokan/" "calibre/" "Atom/" "Atlassian/" "Adobe/" ".emacs~" ".emacs.OLD" ".emacs.d/" ".emacs" ".#.emacs" "#.emacs#" "../" "./")
+
+ ("c:/Users/devons/AppData/Roaming/.emacs.d/elpa/" (22315 53671 0 0) "yasnippet-20160504.935/" "window-numbering-20150228.1247/" "window-number-20140123.1902/" "use-package-20160403.1129/" "undo-tree-20140509.522/" "sr-speedbar-readme.txt" "s-20160429.727/" "powerline-evil-20151112.710/" "powerline-20160224.2052/" "popup-20160409.2133/" "pkg-info-20150517.443/" "persistent-scratch-20160404.915/" "omnisharp-20151210.1114/" "neotree-20160306.730/" "moe-theme-20160322.115/" "linum-relative-20160117.2200/" "key-chord-20160227.438/" "init-open-recentf-20151106.2023/" "ido-vertical-mode-20160429.1037/" "icicles-20160327.2201/" "hl-line+-20151231.1339/" "goto-chg-20131228.659/" "flycheck-20160504.237/" "expand-region-20150902.558/" "evil-readme.txt" "evil-jumper-readme.txt" "evil-20160427.1028/" "epl-20150517.433/" "eldoc-eval-20150512.506/" "diminish-20151215.915/" "dash-20160501.1123/" "csharp-mode-20160414.222/" "company-20160429.1339/" "browse-kill-ring-20160125.9/" "bind-key-20160227.48/" "auto-complete-20160416.604/" "archives/" "anything-exuberant-ctags-readme.txt" "ample-theme-20150814.1101/" "ace-jump-mode-20140616.115/" "../" "./")
+
+ ("c:/Source/HIS/Main/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement/Domain/" (22315 54892 0 0) "LocalAlertSeverity.cs" "LocalAlert.cs" ".#LocalAlert.cs" "../" "./")
+
+ ("c:/Users/devons/AppData/Roaming/.emacs.d/elpa/hl-line+-20151231.1339/" (22315 40116 0 0) "hl-line+.elc" "hl-line+.el" "hl-line+-pkg.el" "hl-line+-autoloads.el" "../" "./")
+
+ ("c:/Users/devons/AppData/Roaming/.emacs.d/elpa/csharp-mode-20160414.222/" (22314 44076 0 0) "csharp-mode.elc" "csharp-mode.el" "csharp-mode-pkg.el" "csharp-mode-autoloads.el" "../" "./")
+
+ ("c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement.Services/" (22314 40350 0 0) "Properties/" "Orchestral.Pas.AlertManagement.Services.csproj.vspscc" "Orchestral.Pas.AlertManagement.Services.csproj.user" "Orchestral.Pas.AlertManagement.Services.csproj" "obj/" "IAlertManagementDataService.cs" "GroupToTypeMapping.cs" "bin/" "Auth/" "AlertManagementService.cs" "AlertManagementDataService.cs" ".#AlertManagementService.cs" "../" "./")
+
+ ("c:/Source/HIS/Main/Code/Pas/AlertManagement.NZ/Orchestral.Pas.AlertManagement.NZ.Tests/" (22312 64823 0 0) "UpdateSecuritySteps.cs" "Services/" "RemoveMedicalWarningsSteps.cs" "Properties/" "Orchestral.Pas.AlertManagement.NZ.Tests.csproj.vspscc" "Orchestral.Pas.AlertManagement.NZ.Tests.csproj" "obj/" "ModifyMedicalWarningSteps.cs" "MedicalWarningTests.cs" "ImportMedicalWarningsSteps.cs" "HealthcareEventTests.cs" "FeatureFiles/" "ErrorHandlingSteps.cs" "Desktop/" "ConfigureHeaderLinkSteps.cs" "bin/" "App.config" "AddMedicalWarningSteps.cs" "../" "./")
+
+ ("c:/Source/HIS/Main/Code/SystemServices/UI/Gcs.Sys.UI.WPFControls/StyleSheets/Orion/" (22306 29616 0 0) "WizTabControl.xaml" "Wizard.xaml" "Values.xaml" "TreeViewList.xaml" "TimePicker.xaml" "TextBox.xaml" "TextBlock.xaml" "TabControl.xaml" "StatusBadges.xaml" "StandardForms/" "StandardFormCaption.xaml" "Separator.xaml" "SearchTextBox.xaml" "SearchSuggestTextBox.xaml" "ReadOnlyFormUnit.xaml" "ReadOnlyFormData.xaml" "ReadOnlyFormCaption.xaml" "RadioButtonGroup.xaml" "RadioButton.xaml" "PrimaryActionButton.xaml" "Popup.xaml" "NumericUpDown.xaml" "NotificationBanner.xaml" "MultiCultureTextBox.xaml" "ListMenu.xaml" "ListBox.xaml" "Icons.xaml" "Icons/" "HyperLinkButton.xaml" "Heading3.xaml" "Heading2.xaml" "Heading1.xaml" "HaloBorder.xaml" "GroupBox.xaml" "GridSplitter.xaml" "FilterCollapsiblePanel.xaml" "Error.xaml" "DateTimePicker.xaml" "DatePicker.xaml" "DataTagSelector.xaml" "DataSelector2.xaml" "DataSelector.xaml" "DataGridGroup.xaml" "DataGrid.xaml" "ComboBox.xaml" "CheckBox.xaml" "All.xaml" "../" "./")
+
+ ("c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement.Tests/Services/" (22302 29628 0 0) "AlertManagementServiceTests/" "AlertManagementDataServiceTests/" "../" "./")
+
+ ("c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement.Tests/Services/AlertManagementDataServiceTests/" (22306 39177 0 0) "UpdateLocalAlertTests.cs" "RemoveLocalAlertTests.cs" "IsSubtypeOfGroupTests.cs" "GetAllLocalAlertsTests.cs" "GetActiveLocalAlertsTests.cs" "GenericTests.cs" "CreateLocalAlertTests.cs" "AlertManagementDataServiceTestBase.cs" "../" "./")
+
+ ("c:/Users/devons/AppData/Roaming/.emacs.d/elpa/csharp-mode-20160326.1409/" (22306 38851 0 0) "csharp-mode.elc" "csharp-mode.el" "csharp-mode-pkg.el" "csharp-mode-autoloads.el" "../" "./")
+
+ ("c:/Source/HIS/Feature/10.2/Code/PatientManagement/Patient/Gcs.PM.Patient.Appointment.UnitTest/" (22269 55051 0 0) "WorkQueue/" "Utilities/" "SearchHelper/" "Properties/" "OutpatientWorkflowTypeTests.cs" "obj/" "Gcs.PM.Patient.Appointment.UnitTest.xml" "Gcs.PM.Patient.Appointment.UnitTest.vbproj.vspscc" "Gcs.PM.Patient.Appointment.UnitTest.csproj.vspscc" "Gcs.PM.Patient.Appointment.UnitTest.csproj" "Extensions/" "DomainModel/" "DataClasses/" "BookingTypeToOutpatientWorkflowTypeMappingTests.cs" "bin/" "AppointmentTests.cs" "AppointmentItemTests.cs" "../" "./")
+
+ ("c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement.Tests/Domain/" (22302 29628 0 0) "LocalAlertTests/" "../" "./")
+
+ ("c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement.Tests/" (22302 29628 0 0) "Services/" "Properties/" "Presentation/" "Orchestral.Pas.AlertManagement.Tests.csproj.vspscc" "Orchestral.Pas.AlertManagement.Tests.csproj" "obj/" "Domain/" "BusinessObject/" "bin/" "../" "./")
+
+ ("c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/" (22302 29626 0 0) "TestResults/" "Orchestral.Pas.AlertManagement.Tests/" "Orchestral.Pas.AlertManagement.Services/" "Orchestral.Pas.AlertManagement.Sandbox/" "Orchestral.Pas.AlertManagement.Desktop/" "Orchestral.Pas.AlertManagement/" "AlertManagement.vssscc" "AlertManagement.sln" ".vs/" "../" "./")
+
+ ("c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement.NZ/" (22302 29630 0 0) "Orchestral.Pas.AlertManagement.NZ.Tests/" "Orchestral.Pas.AlertManagement.NZ.Services/" "Orchestral.Pas.AlertManagement.NZ.Desktop.Interfaces/" "Orchestral.Pas.AlertManagement.NZ.Desktop/" "Orchestral.Pas.AlertManagement.NZ/" "AlertManagement.NZ.vssscc" "AlertManagement.NZ.sln" ".vs/" "../" "./")
+
+ ("c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement.NZ/Orchestral.Pas.AlertManagement.NZ/" (22302 29629 0 0) "Properties/" "Orchestral.Pas.AlertManagement.NZ.csproj.vspscc" "Orchestral.Pas.AlertManagement.NZ.csproj" "obj/" "INZClinicalDataService.cs" "Domain/" "BusinessObject/" "bin/" "Auth/" "../" "./")
+
+ ("c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement.NZ/Orchestral.Pas.AlertManagement.NZ/Domain/" (22288 6343 0 0) "MedicalWarningSeverity.cs" "MedicalWarning.cs" "HealthcareEvent.cs" "../" "./")
+
+ ("c:/Users/devons/" (22302 28686 0 0) "_viminfo" "Videos/" "Tracing/" "Templates/" "Start Menu/" "SendTo/" "Searches/" "Saved Games/" "Roaming/" "Recent/" "PrintHood/" "Pictures/" "OWASP ZAP/" "omnisharp-tmp-file.cs" "ntuser.pol" "ntuser.ini" "NTUSER.DAT{bbed3e3b-0b41-11e3-8249-d6927d06400b}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{bbed3e3b-0b41-11e3-8249-d6927d06400b}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{bbed3e3b-0b41-11e3-8249-d6927d06400b}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "Local Settings/" "Links/" "IntelGraphicsProfiles/" "Favorites/" "Downloads/" "Documents/" "Desktop/" "Cookies/" "Contacts/" "compositeui/" "Application Data/" "AppData/" ".vs/" ".ssh/" ".QtWebEngineProcess/" ".oracle_jre_usage/" ".nuget/" ".HipChat/" ".gitconfig" ".bash_history" ".atom/" "../" "./")
+
+ ("c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/Domain/" (22288 3885 0 0) "LocalAlert.cs" "../" "./")
+
+ ("c:/Users/devons/AppData/Roaming/.emacs.d/lisp/" (22278 55179 0 0) "library/" "init-powerline.el" "../" "./")
+
+ ("c:/Source/HIS/Feature/10.2/Code/Pas/" (22287 62300 0 0) "WaitingList/" "Search/" "Referrals/" "Provider/" "PatientSummary/" "Overview/" "OutpatientManagement/" "Outpatient/" "Orchestral.Pas.Clinic/" "InPatient/" "Core/" "ConfigurablePresentation/" "Coding/" "Caregiver/" "Appointments/" "AlertManagement.NZ/" "AlertManagement/" "../" "./")
+
+ ("c:/Source/HIS/Feature/10.2/Code/" (22265 44177 0 0) "SystemServices/" "Platform/" "Pharmacy/" "PatientManagement/" "Pas/" "MaterialsManagement/" "Laboratory/" "Infrastructure/" "HumanResources/" "FinancialManagement/" "External/" "Common/" "BackOffice/" "AncillaryServices/" "3rdParty/" "../" "./")
+
+ ("c:/Source/HIS/Feature/10.2/" (22265 43991 0 0) "Test/" "Settings.StyleCop" "Resources/" "OLAP/" "NuGet.Config" "key.snk" "Install/" "EF.ruleset" "Documents/" "Database/" "Code/" "BuildConfig/" "Bin/" "BI/" "ActiveCare/" "../" "./")
+
+ ("c:/Source/HIS/Feature/" (22265 43990 0 0) "10.2/" "../" "./")
+
+ ("c:/Source/HIS/Main/Code/SystemServices/UI/Gcs.Sys.UI.WPFControls/StyleSheets/Obsoleted/" (22174 50478 0 0) "TreeViewStyle.xaml" "TooltipStyle.xaml" "ToolbarStyle.xaml" "TextMessageStyle.xaml" "TextBoxStyle.xaml" "TextBlockStyle.xaml" "TabControlStyle.xaml" "SwitchButtonStyle.xaml" "SliderStyle.xaml" "SidebarTreeStyle.xaml" "SeperateLineStyle.xaml" "SearchTextBoxStyle.xaml" "ScrollViewerStyle.xaml" "ScrollBarStyle.xaml" "RibbonStyle.xaml" "RadioButtonStyle.xaml" "PasswordBoxStyle.xaml" "PanelStyle.xaml" "MenuItemStyle.xaml" "MenuBarStyle.xaml" "ListViewGrayStyle.xaml" "ListViewBlueStyle.xaml" "ListBoxStyle.xaml" "HyperlinkStyle.xaml" "GroupBoxStyle.xaml" "GridSplitterStyle.xaml" "ExpanderWhiteStyle.xaml" "ExpanderGrayStyle.xaml" "DialogWindowStyle.xaml" "DataGridStyle.xaml" "ContextMenuStyle.xaml" "CommonSearchTextBoxStyle.xaml" "CommonDataGridStyle.xaml" "CommandButtonStyle.xaml" "ComboBoxStyle.xaml" "CheckBoxStyle.xaml" "AmalgaUISHISCommonPropertiesResource.xaml" "AmalgaUISHISCommonControlsResource.xaml" "AmalgaUISHISColorThemeResource.xaml" "AmalgaCompositeResource.xaml" "../" "./")
+
+ ("c:/Source/HIS/Main/Code/SystemServices/UI/Gcs.Sys.UI.WPFControls/StyleSheets/" (22174 50475 0 0) "Orion/" "Obsoleted/" "ListBoxItem.xaml" "Classic/" "../" "./")
+
+ ("c:/Source/HIS/Main/Code/PatientManagement/Patient/" (22286 38511 0 0) "UseWhenPeopleHaveSolutionFileCheckedOut.vssscc" "UITest/" "UIMap/" "TraceAndTestImpact.testsettings" "TestResults/" "temp.txt" "SpecialCompileForAllergy.vssscc" "Scenarios/" "PatientAllergy.vssscc" "Local.testsettings" "LoadTest/" "Gsc.PM.Patient.Manager.Tests/" "Gcs.PM.Patient.Visit.UnitTest/" "Gcs.PM.Patient.Visit.UI.vssscc" "Gcs.PM.Patient.Visit.UI.vsmdi" "Gcs.PM.Patient.Visit.UI.UnitTest/" "Gcs.PM.Patient.Visit.UI.Test/" "Gcs.PM.Patient.Visit.UI.sln.DotSettings.user" "Gcs.PM.Patient.Visit.UI.sln" "Gcs.PM.Patient.Visit.UI.Interfaces/" "Gcs.PM.Patient.Visit.UI.Controls.Test/" "Gcs.PM.Patient.Visit.UI.Controls.Interfaces/" "Gcs.PM.Patient.Visit.UI.Controls/" "Gcs.PM.Patient.Visit.UI/" "Gcs.PM.Patient.Visit.SC.vssscc" "Gcs.PM.Patient.Visit.SC.testsettings" "Gcs.PM.Patient.Visit.SC.Test/" "Gcs.PM.Patient.Visit.SC.sln" "Gcs.PM.Patient.Visit.SC.Interfaces/" "Gcs.PM.Patient.Visit.SC/" "Gcs.PM.Patient.Visit.Reports.vssscc" "Gcs.PM.Patient.Visit.Reports.UnitTest/" "Gcs.PM.Patient.Visit.Reports.UI.Test/" "Gcs.PM.Patient.Visit.Reports.UI.Interfaces/" "Gcs.PM.Patient.Visit.Reports.UI/" "Gcs.PM.Patient.Visit.Reports.sln" "Gcs.PM.Patient.Visit.Reports.SC.Interfaces/" "Gcs.PM.Patient.Visit.Reports.SC/" "Gcs.PM.Patient.Visit.Reports/" "Gcs.PM.Patient.Visit.Manager.vssscc" "Gcs.PM.Patient.Visit.Manager.UnitTest/" "Gcs.PM.Patient.Visit.Manager/" "Gcs.PM.Patient.Visit.Lab.UI.Controls.vssscc" "Gcs.PM.Patient.Visit.Lab.UI.Controls.Test/" "Gcs.PM.Patient.Visit.Lab.UI.Controls.sln" "Gcs.PM.Patient.Visit.Lab.UI.Controls/" "Gcs.PM.Patient.Visit.Data/" "Gcs.PM.Patient.Visit/" "Gcs.PM.Patient.UnitTestData.vssscc" "Gcs.PM.Patient.UnitTestData.sln" "Gcs.PM.Patient.UnitTestData/" "Gcs.PM.Patient.UnitTest.testrunconfig" "Gcs.PM.Patient.UnitTest/" "Gcs.PM.Patient.UITest.vssscc" "Gcs.PM.Patient.UITest.vsmdi" "Gcs.PM.Patient.UITest.sln" "Gcs.PM.Patient.UI.vssscc" "Gcs.PM.Patient.UI.UnitTest/" "Gcs.PM.Patient.UI.testsettings" "Gcs.PM.Patient.UI.Test/" "Gcs.PM.Patient.UI.sln" "Gcs.PM.Patient.UI.Interfaces/" "Gcs.PM.Patient.UI.Controls.vssscc" "Gcs.PM.Patient.UI.Controls.vsmdi" "Gcs.PM.Patient.UI.Controls.TestSetup.bat" "Gcs.PM.Patient.UI.Controls.testrunconfig" "Gcs.PM.Patient.UI.Controls.TestCleanup.bat" "Gcs.PM.Patient.UI.Controls.Test/" "Gcs.PM.Patient.UI.Controls.sln" "Gcs.PM.Patient.UI.Controls.PluginsImpl/" "Gcs.PM.Patient.UI.Controls.Plugins.Pharmacy/" "Gcs.PM.Patient.UI.Controls.Plugins.Laboratory/" "Gcs.PM.Patient.UI.Controls.Plugins.Finance/" "Gcs.PM.Patient.UI.Controls.Plugins.Common.UnitTest/" "Gcs.PM.Patient.UI.Controls.Plugins.Common/" "Gcs.PM.Patient.UI.Controls.Plugins/" "Gcs.PM.Patient.UI.Controls.Cmd/" "Gcs.PM.Patient.UI.Controls/" "Gcs.PM.Patient.UI/" "Gcs.PM.Patient.TestSetup.bat" "Gcs.PM.Patient.TestCleanup.bat" "Gcs.PM.Patient.Setup.UI.vssscc" "Gcs.PM.Patient.Setup.UI.Interfaces/" "Gcs.PM.Patient.Setup.UI/" "Gcs.PM.Patient.Setup/" "Gcs.PM.Patient.Scheduling.UI.vssscc" "Gcs.PM.Patient.Scheduling.UI.sln" "Gcs.PM.Patient.Scheduling.UI/" "Gcs.PM.Patient.SC2.vsmdi" "Gcs.PM.Patient.SC1.vsmdi" "Gcs.PM.Patient.SC.vssscc" "Gcs.PM.Patient.SC.vsmdi" "Gcs.PM.Patient.SC.sln" "Gcs.PM.Patient.SC.Interfaces/" "Gcs.PM.Patient.SC/" "Gcs.PM.Patient.PatientVisitSelector.UI.Controls.vssscc" "Gcs.PM.Patient.PatientVisitSelector.UI.Controls.UnitTest/" "Gcs.PM.Patient.PatientVisitSelector.UI.Controls/" "Gcs.PM.Patient.PatientVisitInfo.UI.Controls.vssscc" "Gcs.PM.Patient.PatientVisitInfo.UI.Controls.UnitTest/" "Gcs.PM.Patient.PatientVisitInfo.UI.Controls/" "Gcs.PM.Patient.PatientHeader.UI.Controls/" "Gcs.PM.Patient.PatientFile.vssscc" "Gcs.PM.Patient.PatientFile.vsmdi" "Gcs.PM.Patient.PatientFile.TestSetup.bat" "Gcs.PM.Patient.PatientFile.testrunconfig" "Gcs.PM.Patient.PatientFile.TestCleanup.bat" "Gcs.PM.Patient.PatientFile.sln" "Gcs.PM.Patient.PatientFile.SC.vssscc" "Gcs.PM.Patient.PatientFile.SC.UnitTest/" "Gcs.PM.Patient.PatientFile.SC.Interfaces/" "Gcs.PM.Patient.PatientFile.SC/" "Gcs.PM.Patient.PatientClassValidation.vssscc" "Gcs.PM.Patient.PatientClassValidation.vsmdi" "Gcs.PM.Patient.PatientClassValidation.UI.Interfaces/" "Gcs.PM.Patient.PatientClassValidation.UI.Controls/" "Gcs.PM.Patient.PatientClassValidation.UI/" "Gcs.PM.Patient.PatientClassValidation.TestSetup.bat" "Gcs.PM.Patient.PatientClassValidation.TestCleanup.bat" "Gcs.PM.Patient.PatientClassValidation.sln" "Gcs.PM.Patient.PatientClassValidation.Services.SC.UnitTest/" "Gcs.PM.Patient.PatientClassValidation.Services.SC.Interfaces/" "Gcs.PM.Patient.PatientClassValidation.Services.SC/" "Gcs.PM.Patient.PatientClassValidation.SC/" "Gcs.PM.Patient.PatientClassValidation.Manager/" "Gcs.PM.Patient.PatientClassValidation.Exceptions/" "Gcs.PM.Patient.PatientClassValidation/" "Gcs.PM.Patient.MedicalRecord.UnitTest/" "Gcs.PM.Patient.MedicalRecord.UI.vssscc" "Gcs.PM.Patient.MedicalRecord.UI.Test/" "Gcs.PM.Patient.MedicalRecord.UI.sln" "Gcs.PM.Patient.MedicalRecord.UI.Interfaces/" "Gcs.PM.Patient.MedicalRecord.UI.Controls/" "Gcs.PM.Patient.MedicalRecord.UI/" "Gcs.PM.Patient.MedicalRecord.Services.UI.Interfaces/" "Gcs.PM.Patient.MedicalRecord.Services.UI/" "Gcs.PM.Patient.MedicalRecord.Manager.UnitTest/" "Gcs.PM.Patient.MedicalRecord.Manager/" "Gcs.PM.Patient.MedicalRecord.Lite.UnitTest/" "Gcs.PM.Patient.MedicalRecord.Lite.Imaging.Display.vssscc" "Gcs.PM.Patient.MedicalRecord.Lite.Display.UI.Controls/" "Gcs.PM.Patient.MedicalRecord.Lite.Display/" "Gcs.PM.Patient.MedicalRecord.Lite.Configuration.vssscc" "Gcs.PM.Patient.MedicalRecord.Lite.Configuration.UnitTest/" "Gcs.PM.Patient.MedicalRecord.Lite.Configuration/" "Gcs.PM.Patient.MedicalRecord.Episode.UI.Test/" "Gcs.PM.Patient.MedicalRecord.Episode.UI.Interfaces/" "Gcs.PM.Patient.MedicalRecord.Episode.UI/" "Gcs.PM.Patient.MedicalRecord.DocumentQueue.vssscc" "Gcs.PM.Patient.MedicalRecord.DocumentQueue.vsmdi" "Gcs.PM.Patient.MedicalRecord.DocumentQueue.UnitTest/" "Gcs.PM.Patient.MedicalRecord.DocumentQueue.UI.Test/" "Gcs.PM.Patient.MedicalRecord.DocumentQueue.UI.Interfaces/" "Gcs.PM.Patient.MedicalRecord.DocumentQueue.UI/" "Gcs.PM.Patient.MedicalRecord.DocumentQueue.TestSetup.bat" "Gcs.PM.Patient.MedicalRecord.DocumentQueue.testrunconfig" "Gcs.PM.Patient.MedicalRecord.DocumentQueue.TestCleanup.bat" "Gcs.PM.Patient.MedicalRecord.DocumentQueue.sln" "Gcs.PM.Patient.MedicalRecord.DocumentQueue.SC.Interfaces/" "Gcs.PM.Patient.MedicalRecord.DocumentQueue.SC/" "Gcs.PM.Patient.MedicalRecord.DocumentQueue.Manager/" "Gcs.PM.Patient.MedicalRecord.DocumentQueue/" "Gcs.PM.Patient.MedicalRecord.Diagnostics.vssscc" "Gcs.PM.Patient.MedicalRecord.Diagnostics.UnitTest/" "Gcs.PM.Patient.MedicalRecord.Diagnostics.UI.Interfaces/" "Gcs.PM.Patient.MedicalRecord.Diagnostics.UI/" "Gcs.PM.Patient.MedicalRecord.Diagnostics.sln" "Gcs.PM.Patient.MedicalRecord.Diagnostics.SC.Interfaces/" "Gcs.PM.Patient.MedicalRecord.Diagnostics.SC/" "Gcs.PM.Patient.Manager.vssscc" "Gcs.PM.Patient.Manager.sln" "Gcs.PM.Patient.Manager/" "Gcs.PM.Patient.Indicator.vssscc" "Gcs.PM.Patient.Indicator.UI.Test/" "Gcs.PM.Patient.Indicator.UI.Interfaces/" "Gcs.PM.Patient.Indicator.UI/" "Gcs.PM.Patient.Indicator.sln" "Gcs.PM.Patient.Indicator.Services.SC.Interfaces/" "Gcs.PM.Patient.Indicator.Services.SC/" "Gcs.PM.Patient.Indicator.SC/" "Gcs.PM.Patient.Indicator/" "Gcs.PM.Patient.HeaderProfile.UnitTest/" "Gcs.PM.Patient.HeaderProfile.Setup.UI.Interfaces/" "Gcs.PM.Patient.HeaderProfile.Setup.UI/" "Gcs.PM.Patient.HeaderProfile.SC.Interfaces/" "Gcs.PM.Patient.HeaderProfile.SC/" "Gcs.PM.Patient.HeaderProfile.Manager/" "Gcs.PM.Patient.HeaderProfile/" "Gcs.PM.Patient.Education.vssscc" "Gcs.PM.Patient.Education.UI.Test/" "Gcs.PM.Patient.Education.UI/" "Gcs.PM.Patient.Education.sln" "Gcs.PM.Patient.DynamicScreen.UI.Controls.vssscc" "Gcs.PM.Patient.DynamicScreen.UI.Controls.Test/" "Gcs.PM.Patient.DynamicScreen.UI.Controls.sln" "Gcs.PM.Patient.DynamicScreen.UI.Controls.Interfaces/" "Gcs.PM.Patient.DynamicScreen.UI.Controls/" "Gcs.PM.Patient.Appointment.vssscc" "Gcs.PM.Patient.Appointment.vsmdi" "Gcs.PM.Patient.Appointment.UnitTest/" "Gcs.PM.Patient.Appointment.UI.testsettings" "Gcs.PM.Patient.Appointment.UI.Test/" "Gcs.PM.Patient.Appointment.UI.Interfaces/" "Gcs.PM.Patient.Appointment.UI.Controls.vssscc" "Gcs.PM.Patient.Appointment.UI.Controls/" "Gcs.PM.Patient.Appointment.UI/" "Gcs.PM.Patient.Appointment.TestSetup.bat" "Gcs.PM.Patient.Appointment.testrunconfig" "Gcs.PM.Patient.Appointment.TestCleanup.bat" "Gcs.PM.Patient.Appointment.sln" "Gcs.PM.Patient.Appointment.SC.UnitTest/" "Gcs.PM.Patient.Appointment.SC.TestSetup.bat" "Gcs.PM.Patient.Appointment.SC.testrunconfig" "Gcs.PM.Patient.Appointment.SC.TestCleanup.bat" "Gcs.PM.Patient.Appointment.SC.Interfaces/" "Gcs.PM.Patient.Appointment.SC/" "Gcs.PM.Patient.Appointment.Core.vssscc" "Gcs.PM.Patient.Appointment.All.vssscc" "Gcs.PM.Patient.Appointment/" "Gcs.PM.Patient.AllergySummary.UI.Controls.vssscc" "Gcs.PM.Patient.Allergy.vssscc" "Gcs.PM.Patient.Allergy.vsmdi" "Gcs.PM.Patient.Allergy.UnitTest/" "Gcs.PM.Patient.Allergy.UI.Interfaces/" "Gcs.PM.Patient.Allergy.UI.Controls/" "Gcs.PM.Patient.Allergy.UI/" "Gcs.PM.Patient.Allergy.TestSetup.bat" "Gcs.PM.Patient.Allergy.testrunconfig" "Gcs.PM.Patient.Allergy.TestCleanup.bat" "Gcs.PM.Patient.Allergy.Test/" "Gcs.PM.Patient.Allergy.sln" "Gcs.PM.Patient.Allergy.SC.UnitTest/" "Gcs.PM.Patient.Allergy.SC.Interfaces/" "Gcs.PM.Patient.Allergy.SC/" "Gcs.PM.Patient.Allergy.Manager.UnitTest/" "Gcs.PM.Patient.Allergy.Manager/" "Gcs.PM.Patient.Allergy.CachedData/" "Gcs.PM.Patient.Allergy/" "Gcs.PM.Patient/" "ERTriageTest/" ".vs/" "../" "./")
+
+ ("c:/Source/HIS/Main/Code/PatientManagement/" (22222 3728 0 0) "Workflow/" "Visitor/" "Radt/" "Portering/" "Pmr/" "PatientList/" "Patient/" "OrderSetReport/" "MedicalDevices/" "InPatient/" "Emr/" "Dashboard/" "ClinicalRepresentative/" "ClinicalExpression/" "ClinicalDocumentation/" "Caseload/" "CaregiverFees/" "Caregiver/" "CallQueue/" "Appointment/" "../" "./")
+
+ ("c:/Source/HIS/Main/Code/" (22174 45885 0 0) "SystemServices/" "Platform/" "Pharmacy/" "PatientManagement/" "Pas/" "MaterialsManagement/" "Laboratory/" "Infrastructure/" "HumanResources/" "FinancialManagement/" "External/" "Common/" "BackOffice/" "AncillaryServices/" "3rdParty/" "../" "./")
+
+ ("c:/Source/HIS/Main/" (22174 45858 0 0) "Test/" "Settings.StyleCop" "Resources/" "OLAP/" "NuGet.Config" "key.snk" "Install/" "EF.ruleset" "Documents/" "Database/" "Code/" "BuildConfig/" "Bin/" "BI/" "ActiveCare/" "../" "./")
+
+ ("c:/Source/" (22245 46238 0 0) "Tools/" "HIS/" "../" "./")
+
+ ("c:/Source/HIS/Main/Code/PatientManagement/Patient/Gcs.PM.Patient.Appointment.UI/History/" (22255 14604 0 0) "TableNameGroupConverter.cs" "LastUserUpdateGroupConverter.cs" "AppointmentHistoryViewModel.cs" "AppointmentHistoryView.xaml.cs" "AppointmentHistoryView.xaml" "../" "./")
+
+ ("c:/Program Files (x86)/" (22266 60762 0 0) "WindowsPowerShell/" "Windows Sidebar/" "Windows Portable Devices/" "Windows Photo Viewer/" "Windows NT/" "Windows Multimedia Platform/" "Windows Media Player/" "Windows Mail/" "Windows Live/" "Windows Kits/" "Windows Defender/" "VMware/" "Vim/" "VideoLAN/" "StyleCop 4.7/" "ST Microelectronics/" "Skype/" "ShellDir/" "Reference Assemblies/" "putty.exe" "omnisharp-server/" "NVIDIA Corporation/" "NuGet/" "MSBuild/" "Microsoft.NET/" "Microsoft WCF Data Services/" "Microsoft Visual Studio 14.0/" "Microsoft Visual Studio 12.0/" "Microsoft Visual Studio 10.0/" "Microsoft Team Foundation Server 2015 Power Tools/" "Microsoft Team Foundation Server 2013 Power Tools/" "Microsoft SQL Server Compact Edition/" "Microsoft SQL Server/" "Microsoft Silverlight/" "Microsoft SDKs/" "Microsoft Office/" "Microsoft Help Viewer/" "Microsoft Analysis Services/" "Java/" "Janus Systems/" "Internet Explorer/" "Intel/" "InstallShield Installation Information/" "Infragistics/" "IIS Express/" "IIS/" "Google/" "emacs/" "Dokan/" "desktop.ini" "Dell Update/" "Dell Product Registration/" "Dell Digital Delivery/" "Dell Backup and Recovery/" "Dell/" "Curl/" "ComponentOne/" "Common Files/" "Cisco/" "Beyond Compare 3/" "Atlassian/" "AppInsights/" "AGEIA Technologies/" "Adobe/" "../" "./")
+
+ ("c:/Program Files (x86)/emacs/" (22081 62820 0 0) "var/" "share/" "libexec/" "bin/" "../" "./")
+
+ ("c:/Users/" (22247 1486 0 0) "UpdatusUser/" "ReportServer/" "Public/" "MSSQLServerOLAPService/" "MSSQLSERVER/" "MSSQLFDLauncher/" "MsDtsServer120/" "mortezaa/" "devons/" "desktop.ini" "DefaultAppPool/" "Default User/" "Default/" "All Users/" "Admin/" "../" "./")
+
+ ("c:/Users/devons/AppData/" (22164 22193 0 0) "Roaming/" "LocalLow/" "Local/" "../" "./")
+
+ ("c:/Program Files (x86)/emacs/bin/" (22081 62821 0 0) "zlib1.dll" "runemacs.exe" "libXpm-noX4.dll" "libxml2-2.dll" "libwinpthread-1.dll" "libtiffxx-5.dll" "libtiff-5.dll" "libtasn1-6.dll" "librsvg-2-2.dll" "libpng16-16.dll" "libpixman-1-0.dll" "libpangowin32-1.0-0.dll" "libpangoft2-1.0-0.dll" "libpangocairo-1.0-0.dll" "libpango-1.0-0.dll" "libp11-kit-0.dll" "libnettle-6-1.dll" "liblzma-5.dll" "libjpeg-8.dll" "libjbig-0.dll" "libintl-8.dll" "libidn-11.dll" "libiconv-2.dll" "libhogweed-4-1.dll" "libharfbuzz-icu-0.dll" "libharfbuzz-gobject-0.dll" "libharfbuzz-0.dll" "libgomp-plugin-host_nonshm-1.dll" "libgomp-1.dll" "libgobject-2.0-0.dll" "libgnutlsxx-28.dll" "libgnutls-30.dll" "libgmp-10.dll" "libgmodule-2.0-0.dll" "libglib-2.0-0.dll" "libgio-2.0-0.dll" "libgif-7.dll" "libgdk_pixbuf-2.0-0.dll" "libgcc_s_seh-1.dll" "libfreetype-6.dll" "libfontconfig-1.dll" "libffi-6.dll" "libexpat-1.dll" "libcroco-0.6-3.dll" "libcairo-script-interpreter-2.dll" "libcairo-gobject-2.dll" "libcairo-2.dll" "libbz2-1.dll" "etags.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "emacs-25.0.50.exe" "ebrowse.exe" "ctags.exe" "addpm.exe" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
