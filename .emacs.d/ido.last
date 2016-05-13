@@ -27,20 +27,20 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "c:/Users/devons/AppData/Roaming/"
+ "c:/Users/devons/Desktop/"
  "c:/"
  "c:/Source/HIS/Main/Code/PatientManagement/Patient/"
  "c:/Users/devons/AppData/Roaming/.emacs.d/elpa/omnisharp-20151210.1114/"
  "c:/Users/devons/AppData/Roaming/.emacs.d/"
  "c:/Users/devons/AppData/Roaming/.emacs.d/elpa/init-open-recentf-20151106.2023/"
  "c:/Users/devons/AppData/Roaming/.emacs.d/elpa/hl-line+-20151231.1339/"
- "c:/Users/devons/AppData/Roaming/"
  "c:/Users/devons/AppData/Roaming/.emacs.d/elpa/flycheck-20160504.237/"
  "c:/Users/devons/AppData/Roaming/.emacs.d/elpa/csharp-mode-20160414.222/"
  "c:/Users/devons/AppData/Roaming/.emacs.d/elpa/csharp-mode-20160326.1409/"
  "c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement/"
  "c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement.Tests/Domain/LocalAlertTests/"
  "c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement/Domain/"
- "c:/Users/devons/Desktop/"
  "c:/Program Files (x86)/emacs/bin/"
  "c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/Domain/"
  "c:/Source/HIS/Main/Code/SystemServices/UI/Gcs.Sys.UI.WPFControls/StyleSheets/Orion/"
@@ -51,27 +51,35 @@
 
 ;; ----- ido-work-file-list -----
 (
+ ".emacs"
+ "patient-alert-stored-proc"
  "asdasdasdasda"
  "Gcs.PM.Patient.PatientClassValidation.vsmdi"
  "example-config-for-evil-mode.el"
  "recentf"
  "init-open-recentf.el"
  "hl-line+.el"
- ".emacs"
  "flycheck.el"
  "csharp-mode.el"
- "omnisharp.el"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("c:/Users/devons/AppData/Roaming/" (22325 2334 0 0) "winscp.rnd" "VMware/" "vlc/" "Sun/" "Sublime Text 3/" "Skype/" "Sergey Vlasov/" "Scooter Software/" "PCDr/" "OrionHealthHIS/" "Orion Health/" "NuGet/" "Microsoft FxCop/" "Microsoft/" "Macromedia/" "JetBrains/" "Intel Corporation/" "Intel/" "Emacs-Live .emacs.d/" "Dokan/" "calibre/" "Atom/" "Atlassian/" "Adobe/" ".emacs~" ".emacs.OLD" ".emacs.d/" ".emacs" "#.emacs#" "../" "./")
+
+ ("c:/Source/HIS/Main/Code/Pas/PatientAlert/Orchestral.Pas.PatientAlert.Desktop/" (22325 1892 0 0) "Properties/" "PatientAlertSource.cs" "PatientAlertHistoryViewModel.cs" "PatientAlertHistoryView.xaml.cs" "PatientAlertHistoryView.xaml" "Orchestral.Pas.PatientAlert.Desktop.csproj.vspscc" "Orchestral.Pas.PatientAlert.Desktop.csproj" "obj/" "LocalAlertViewModel.cs" "LocalAlertView.xaml.cs" "LocalAlertView.xaml" "LocalAlertType.cs" "LocalAlertsCollectionView.cs" "LocalAlertGroup.cs" "Converters/" "bin/" "AlertsView.xaml.cs" "AlertsView.xaml" "AlertsUIController.cs" "AlertShowHistoryEventArgs.cs" "AlertsDataProvider.cs" "AlertCollectionChangedEventArgs.cs" "AlertAddOrEditEventArgs.cs" "AbstractLocalAlertDataProvider.cs" "AbstractAlertsUIController.cs" "../" "./")
+
+ ("c:/Source/HIS/Main/Code/PatientManagement/Patient/Gcs.PM.Patient.Appointment.UI/Booking/" (22321 22439 0 0) "WaitingListEntryDetailsViewModel.cs" "SelectorDataProviderContainer.cs" "ScheduleTimelineViewModel.cs" "ScheduleTimeline.xaml.cs" "ScheduleTimeline.xaml" "ResourceSelectorViewModel.cs" "Resources/" "ReferralDetailsViewModel.cs" "PresentationProfileConstant.cs" "PresentationFrameworkConfigurationProvider.cs" "OtherResourceSelectorViewModel.cs" "IWaitingListEntryDetailsViewModel.cs" "ISelectorDataProviderContainer.cs" "IReferralDetailsViewModel.cs" "IPresentationFrameworkConfigurationProvider.cs" "IdentifyingType.cs" "ICommunityDetailsViewModel.cs" "IBookingViewModelDependentServiceContainer.cs" "IBookingViewModelContainer.cs" "IBookingSystemParameterService.cs" "IBookingDialogService.cs" "IAppointmentDetailsViewModel.cs" "IAppointmentConfirmation.cs" "EmployeeResourceModel.cs" "EmployeeResourceFilterViewModel.cs" "CommunityDetailsViewModel.cs" "BookingViewModelDependentServiceContainer.cs" "BookingViewModelContainer.cs" "BookingViewModel.cs" "BookingView.xaml.cs" "BookingView.xaml" "BookingSystemParameterService.cs" "BookingPreviewViewModel.cs" "BookingPreviewView.xaml.cs" "BookingPreviewView.xaml" "BookingPresentationProvider.cs" "BookingPresentationContext.cs" "BookingPresentationConfigurationViewModel.cs" "BookingPresentationConfigurationView.xaml.cs" "BookingPresentationConfigurationView.xaml" "BookingDialogService.cs" "AppointmentDetailsViewModel.cs" "AppointmentConfirmation.cs" "../" "./")
+
+ ("c:/Users/devons/Desktop/" (22323 37598 0 0) "scratch.cs" "PuTTY.lnk" "patient-alert-stored-proc" "junk.txt" "emacs-c#-setup" "desktop.ini" "cheatsheets/" "20160413_110003.jpg" "20160413_072604.jpg" ".emacs" "../" "./")
+
+ ("c:/Users/devons/" (22323 41613 0 0) "_viminfo" "Videos/" "Tracing/" "Templates/" "Start Menu/" "SendTo/" "Searches/" "Saved Games/" "Roaming/" "Recent/" "PrintHood/" "Pictures/" "OWASP ZAP/" "omnisharp-tmp-file.cs" "ntuser.pol" "ntuser.ini" "NTUSER.DAT{bbed3e3b-0b41-11e3-8249-d6927d06400b}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{bbed3e3b-0b41-11e3-8249-d6927d06400b}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{bbed3e3b-0b41-11e3-8249-d6927d06400b}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "Local Settings/" "Links/" "IntelGraphicsProfiles/" "Favorites/" "Downloads/" "Documents/" "Desktop/" "Cookies/" "Contacts/" "compositeui/" "Application Data/" "AppData/" ".vs/" ".ssh/" ".QtWebEngineProcess/" ".oracle_jre_usage/" ".nuget/" ".HipChat/" ".gitconfig" ".bash_history" ".atom/" "../" "./")
+
  ("c:/Source/HIS/" (22319 41124 0 0) "Rel/" "Prototypes/" "Main/" "Feature/" "BuildProcessTemplates/" "../" "./")
 
  ("c:/Source/HIS/Main/Code/Infrastructure/Framework/Orchestral.Infrastructure.Framework.Desktop.Wpf/Styles/" (22314 19185 0 0) "Typography.xaml" "TreeView.xaml" "ToolTip.xaml" "TextBox.xaml" "TaskControl.xaml" "TagList.xaml" "TabControl.xaml" "TabContainer.xaml" "StandardFonts.xaml" "Separator.xaml" "SearchHeader.xaml" "ReadOnlyContent.xaml" "PopupListView.xaml" "PopupListBox.xaml" "MenuButton.xaml" "ListView.xaml" "ListSelector.xaml" "ListBox.xaml" "InternalControls.xaml" "GridSection.xaml" "FormSection.xaml" "FormItem.xaml" "Form.xaml" "Detail.xaml" "DecoratedBlock.xaml" "DatePicker.xaml" "DataSelector.xaml" "ControlStrip.xaml" "ContextMenu.xaml" "Container.xaml" "ComboBox.xaml" "Card.xaml" "Calendar.xaml" "Button.xaml" "Block.xaml" "Baseboard.xaml" "All.xaml" "../" "./")
 
  ("c:/Source/HIS/Main/Code/Infrastructure/Framework/Orchestral.Infrastructure.Framework.Desktop.Wpf/" (22312 62279 0 0) "VisualAncestorHelper.cs" "Themes/" "ThemeManager.cs" "Theme.cs" "Styles/" "StringArrayConverter.cs" "StandardColors.cs" "Resources/" "ResourceKeys.cs" "Properties/" "Orchestral.Infrastructure.Framework.Desktop.Wpf.csproj.vspscc" "Orchestral.Infrastructure.Framework.Desktop.Wpf.csproj" "obj/" "LogicalChildrenHelper.cs" "Localization/" "LeftMarginMultiplierConverter.cs" "IconStrings.cs" "IBindingExtension.cs" "Helpers.cs" "Controls/" "BindingExtensionBase.cs" "bin/" "Behaviors/" "AutomationPeerHelper.cs" "Automation/" "../" "./")
-
- ("c:/Users/devons/Desktop/" (22316 2246 0 0) "scratch.cs" "PuTTY.lnk" "junk.txt" "emacs-c#-setup" "desktop.ini" "cheatsheets/" "20160413_110003.jpg" "20160413_072604.jpg" ".emacs" "../" "./")
 
  ("c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement/Domain/" (22306 53778 0 0) "LocalAlertSeverity.cs" "LocalAlert.cs" "../" "./")
 
@@ -86,8 +94,6 @@
  ("c:/Users/devons/AppData/Roaming/.emacs.d/" (22319 64944 0 0) "snippets/" "recentf" "lisp/" "ido.last" "elpa/" "auto-save-list/" "ac-comphist.dat" ".persistent-scratch" "../" "./")
 
  ("c:/Users/devons/AppData/Roaming/.emacs.d/elpa/omnisharp-20151210.1114/" (22319 46831 0 0) "omnisharp.elc" "omnisharp.el" "omnisharp-utils.elc" "omnisharp-utils.el" "omnisharp-settings.elc" "omnisharp-settings.el" "omnisharp-server-actions.elc" "omnisharp-server-actions.el" "omnisharp-pkg.el" "omnisharp-autoloads.el" "omnisharp-auto-complete-actions.elc" "omnisharp-auto-complete-actions.el" "example-config-for-evil-mode.elc" "example-config-for-evil-mode.el" "../" "./")
-
- ("c:/Users/devons/AppData/Roaming/" (22319 52669 0 0) "winscp.rnd" "VMware/" "vlc/" "Sun/" "Sublime Text 3/" "Skype/" "Sergey Vlasov/" "Scooter Software/" "PCDr/" "OrionHealthHIS/" "Orion Health/" "NuGet/" "Microsoft FxCop/" "Microsoft/" "Macromedia/" "JetBrains/" "Intel Corporation/" "Intel/" "Emacs-Live .emacs.d/" "Dokan/" "calibre/" "Atom/" "Atlassian/" "Adobe/" ".emacs~" ".emacs.OLD" ".emacs.d/" ".emacs" ".#.emacs" "#.emacs#" "../" "./")
 
  ("c:/Users/devons/AppData/Roaming/.emacs.d/elpa/" (22315 53671 0 0) "yasnippet-20160504.935/" "window-numbering-20150228.1247/" "window-number-20140123.1902/" "use-package-20160403.1129/" "undo-tree-20140509.522/" "sr-speedbar-readme.txt" "s-20160429.727/" "powerline-evil-20151112.710/" "powerline-20160224.2052/" "popup-20160409.2133/" "pkg-info-20150517.443/" "persistent-scratch-20160404.915/" "omnisharp-20151210.1114/" "neotree-20160306.730/" "moe-theme-20160322.115/" "linum-relative-20160117.2200/" "key-chord-20160227.438/" "init-open-recentf-20151106.2023/" "ido-vertical-mode-20160429.1037/" "icicles-20160327.2201/" "hl-line+-20151231.1339/" "goto-chg-20131228.659/" "flycheck-20160504.237/" "expand-region-20150902.558/" "evil-readme.txt" "evil-jumper-readme.txt" "evil-20160427.1028/" "epl-20150517.433/" "eldoc-eval-20150512.506/" "diminish-20151215.915/" "dash-20160501.1123/" "csharp-mode-20160414.222/" "company-20160429.1339/" "browse-kill-ring-20160125.9/" "bind-key-20160227.48/" "auto-complete-20160416.604/" "archives/" "anything-exuberant-ctags-readme.txt" "ample-theme-20150814.1101/" "ace-jump-mode-20140616.115/" "../" "./")
 
@@ -122,8 +128,6 @@
  ("c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement.NZ/Orchestral.Pas.AlertManagement.NZ/" (22302 29629 0 0) "Properties/" "Orchestral.Pas.AlertManagement.NZ.csproj.vspscc" "Orchestral.Pas.AlertManagement.NZ.csproj" "obj/" "INZClinicalDataService.cs" "Domain/" "BusinessObject/" "bin/" "Auth/" "../" "./")
 
  ("c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement.NZ/Orchestral.Pas.AlertManagement.NZ/Domain/" (22288 6343 0 0) "MedicalWarningSeverity.cs" "MedicalWarning.cs" "HealthcareEvent.cs" "../" "./")
-
- ("c:/Users/devons/" (22302 28686 0 0) "_viminfo" "Videos/" "Tracing/" "Templates/" "Start Menu/" "SendTo/" "Searches/" "Saved Games/" "Roaming/" "Recent/" "PrintHood/" "Pictures/" "OWASP ZAP/" "omnisharp-tmp-file.cs" "ntuser.pol" "ntuser.ini" "NTUSER.DAT{bbed3e3b-0b41-11e3-8249-d6927d06400b}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{bbed3e3b-0b41-11e3-8249-d6927d06400b}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{bbed3e3b-0b41-11e3-8249-d6927d06400b}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "Local Settings/" "Links/" "IntelGraphicsProfiles/" "Favorites/" "Downloads/" "Documents/" "Desktop/" "Cookies/" "Contacts/" "compositeui/" "Application Data/" "AppData/" ".vs/" ".ssh/" ".QtWebEngineProcess/" ".oracle_jre_usage/" ".nuget/" ".HipChat/" ".gitconfig" ".bash_history" ".atom/" "../" "./")
 
  ("c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/Domain/" (22288 3885 0 0) "LocalAlert.cs" "../" "./")
 

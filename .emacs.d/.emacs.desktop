@@ -2,19 +2,19 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Wed May 11 13:26:33 2016
+;; Created Thu May 12 09:21:09 2016
 ;; Desktop file format version 208
 ;; Emacs version 25.0.50.1
 
 ;; Global section:
-(setq desktop-saved-frameset [frameset 1 (22322 35401 927887 100000) (desktop . "208") "devons@OH-devons-PC" nil nil ((((font-backend uniscribe gdi) (font . "-outline-Courier New-normal-normal-normal-mono-13-*-*-*-c-*-iso8859-1") (border-width . 2) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "#eeeeec") (background-color . "#2e3436") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (alpha) (menu-bar-lines . 0) (tool-bar-lines . 0) (height . 71) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 17) (scroll-bar-height . 0) (fullscreen) (display-type . color) (background-mode . dark) (cursor-color . "green") (environment) (powerline-cache) (frameset--id . "88CB-C9B1-5E6E-1F3B") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (visibility . t) (display . "w32") (explicit-name) (tool-bar-position . top) (width . 235) (left . 1912) (top + -8)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 10) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 64) (min-pixel-width . 80) (min-pixel-height-ignore . 32) (min-pixel-width-ignore . 80) (min-pixel-height-safe . 16) (min-pixel-width-safe . 16)) leaf (pixel-width . 1920) (pixel-height . 1131) (total-width . 240) (total-height . 70) (normal-height . 1.0) (normal-width . 1.0) (buffer "junk" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 3) (scroll-bars nil 3 t nil 0 t) (vscroll . 0) (dedicated) (point . 390) (start . 1))))])
+(setq desktop-saved-frameset [frameset 1 (22323 41541 974433 700000) (desktop . "208") "devons@OH-devons-PC" nil nil ((((font-backend uniscribe gdi) (font . "-outline-Courier New-normal-normal-normal-mono-13-*-*-*-c-*-iso8859-1") (border-width . 2) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "#eeeeec") (background-color . "#2e3436") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (alpha) (menu-bar-lines . 0) (tool-bar-lines . 0) (height . 71) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 17) (scroll-bar-height . 0) (fullscreen . maximized) (display-type . color) (background-mode . dark) (cursor-color . "green") (environment) (powerline-cache) (frameset--id . "7F71-24CE-AF63-F547") (frameset--mini t . t) (width . 235) (modeline . t) (minibuffer . t) (unsplittable) (left + -8) (top + -8) (icon-name) (visibility . t) (display . "w32") (explicit-name) (tool-bar-position . top)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 10) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 64) (min-pixel-width . 80) (min-pixel-height-ignore . 32) (min-pixel-width-ignore . 80) (min-pixel-height-safe . 16) (min-pixel-width-safe . 16)) leaf (pixel-width . 1920) (pixel-height . 1131) (total-width . 240) (total-height . 70) (normal-height . 1.0) (normal-width . 1.0) (buffer ".emacs" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 3) (scroll-bars nil 3 t nil 0 t) (vscroll . 0) (dedicated) (point . 4857) (start . 3794))))])
 (setq desktop-missing-file-warning nil)
 (setq tags-file-name nil)
 (setq tags-table-list nil)
 (setq search-ring '("session"))
-(setq regexp-search-ring '("History" "\\<_interactionService\\>" "history" "\\<_appointmentService\\>" "Display" "history" "leader"))
-(setq register-alist '((48 . "        /// <summary>\n        /// Show History requested event\n        /// </summary>\n        public event EventHandler<AlertShowHistoryEventArgs> ShowHistoryRequested;")))
-(setq file-name-history '("~/.emacs.d/" "c:/Source/HIS/Main/Code/SystemServices/Data/Gcs.Sys.Data.ChangeTracking.sln" "c:/Source/HIS/Main/Code/Pas/WaitingList/Orchestral.Pas.WaitingList.sln" "c:/Source/HIS/Main/Code/PatientManagement/Patient/Gcs.PM.Patient.Appointment.sln" "~/.emacs.d/ido.last" "~/.emacs" "c:/Source/HIS/Main/Code/PatientManagement/Patient/Gcs.PM.Patient.PatientClassValidation.vsmdi" "c:/Source/HIS/Main/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement/Domain/LocalAlert.cs" "c:/Source/HIS/Main/Code/SystemServices/PrintingAndReporting/Gcs.Sys.PrintingAndReporting.UI/RecipientForm/PrintFormInfoViewModel.cs" "~/.emacs.d/elpa/evil-leader-20140606.543/evil-leader-autoloads.el" "~/.emacs.d/elpa/omnisharp-20151210.1114/example-config-for-evil-mode.el" "c:/Source/HIS/Main/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement.Desktop/LocalAlertView.xaml" "c:/Source/HIS/Main/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement.Desktop/LocalAlertsCollectionView.cs" "c:/Source/HIS/Main/Code/AncillaryServices/Pharmacy/Gcs.AS.Pharmacy.Screening/BusinessUpdatable/Collections/AlertIconCollection.cs" "c:/Source/HIS/Main/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement.Desktop/LocalAlertViewModel.cs" "~/.emacs.d/elpa/init-open-recentf-20151106.2023/init-open-recentf.el" "~/.emacs.d/recentf" "~/.emacs.d/elpa/hl-line+-20151231.1339/hl-line+.el" "~/.emacs.d/elpa/csharp-mode-20160414.222/csharp-mode-autoloads.el" "~/.emacs.d/elpa/company-20160429.1339/company-autoloads.el" "c:/Source/HIS/Main/Code/Pas/AlertManagement.NZ/Orchestral.Pas.AlertManagement.NZ.Tests/ImportMedicalWarningsSteps.cs" "~/.emacs.d/elpa/hl-line+-20151231.1339/hl-line+-autoloads.el" "c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement.Services/AlertManagementService.cs" "~/.emacs.d/elpa/csharp-mode-20160414.222/csharp-mode.el"))
+(setq regexp-search-ring '("severity" "type" "group" "severity" "type" "group" "History" "\\<_interactionService\\>" "history" "\\<_appointmentService\\>" "Display" "history" "leader"))
+(setq register-alist '((48 . "INNER JOIN dbo.patient_alert_severity_ref AS severity ON severity.patient_alert_severity_rcd = pa.patient_alert_severity_rcd\n")))
+(setq file-name-history '("c:/Users/devons/Desktop/patient-alert-stored-proc" "c:/Users/devons/Documents/save-emacs-files.bat" "~/.emacs.d/" "c:/Source/HIS/Main/Code/SystemServices/Data/Gcs.Sys.Data.ChangeTracking.sln" "c:/Source/HIS/Main/Code/Pas/WaitingList/Orchestral.Pas.WaitingList.sln" "c:/Source/HIS/Main/Code/PatientManagement/Patient/Gcs.PM.Patient.Appointment.sln" "~/.emacs.d/ido.last" "~/.emacs" "c:/Source/HIS/Main/Code/PatientManagement/Patient/Gcs.PM.Patient.PatientClassValidation.vsmdi" "c:/Source/HIS/Main/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement/Domain/LocalAlert.cs" "c:/Source/HIS/Main/Code/SystemServices/PrintingAndReporting/Gcs.Sys.PrintingAndReporting.UI/RecipientForm/PrintFormInfoViewModel.cs" "~/.emacs.d/elpa/evil-leader-20140606.543/evil-leader-autoloads.el" "~/.emacs.d/elpa/omnisharp-20151210.1114/example-config-for-evil-mode.el" "c:/Source/HIS/Main/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement.Desktop/LocalAlertView.xaml" "c:/Source/HIS/Main/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement.Desktop/LocalAlertsCollectionView.cs" "c:/Source/HIS/Main/Code/AncillaryServices/Pharmacy/Gcs.AS.Pharmacy.Screening/BusinessUpdatable/Collections/AlertIconCollection.cs" "c:/Source/HIS/Main/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement.Desktop/LocalAlertViewModel.cs" "~/.emacs.d/elpa/init-open-recentf-20151106.2023/init-open-recentf.el" "~/.emacs.d/recentf" "~/.emacs.d/elpa/hl-line+-20151231.1339/hl-line+.el" "~/.emacs.d/elpa/csharp-mode-20160414.222/csharp-mode-autoloads.el" "~/.emacs.d/elpa/company-20160429.1339/company-autoloads.el" "c:/Source/HIS/Main/Code/Pas/AlertManagement.NZ/Orchestral.Pas.AlertManagement.NZ.Tests/ImportMedicalWarningsSteps.cs" "~/.emacs.d/elpa/hl-line+-20151231.1339/hl-line+-autoloads.el" "c:/Source/HIS/Feature/10.2/Code/Pas/AlertManagement/Orchestral.Pas.AlertManagement.Services/AlertManagementService.cs" "~/.emacs.d/elpa/csharp-mode-20160414.222/csharp-mode.el"))
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
 (desktop-create-buffer 208
@@ -22,10 +22,34 @@
   ".emacs"
   'emacs-lisp-mode
   '(override-global-mode undo-tree-mode linum-mode linum-relative-mode yas-minor-mode flycheck-mode company-mode)
-  2191
-  '(2191 nil)
+  4857
+  '(4858 nil)
   nil
   nil
   '((buffer-file-coding-system . undecided-dos) (overwrite-mode))
-  '((mark-ring (2168 2000 2193 3554 3555 3093 3665 3515 3626 1 1))))
+  '((mark-ring (4033 4033 2170 2170 2168 2000 2170 3530 3531 3069 3641 3491 3602 1 1))))
+
+(desktop-create-buffer 208
+  "c:/Users/devons/Desktop/patient-alert-stored-proc"
+  "patient-alert-stored-proc"
+  'sql-mode
+  '(override-global-mode undo-tree-mode linum-mode linum-relative-mode yas-minor-mode flycheck-mode)
+  1682
+  '(1682 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . iso-latin-1-dos) (overwrite-mode))
+  '((mark-ring (1683 1636 1636 1636 1121 983 983 892 744 737 734 609 609 552 580 584))))
+
+(desktop-create-buffer 208
+  nil
+  "*Compile-Log*"
+  'compilation-mode
+  '(override-global-mode undo-tree-mode linum-mode linum-relative-mode yas-minor-mode)
+  49
+  '(nil nil)
+  t
+  '(:command nil :dir nil)
+  nil
+  '((mark-ring nil)))
 

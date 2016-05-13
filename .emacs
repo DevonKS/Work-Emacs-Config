@@ -21,7 +21,7 @@
  '(neo-window-width 50)
  '(package-selected-packages
    (quote
-    (desktop+ evil-leader key-chord hl-line+ omnisharp icicles powerline-evil powerline init-open-recentf browse-kill-ring ido-vertical-mode persistent-scratch window-numbering window-number expand-region ace-jump-mode eldoc-eval company dash epl goto-chg pkg-info popup s undo-tree flycheck linum-relative neotree evil ample-theme moe-theme csharp-mode yasnippet auto-complete))))
+    (show-marks use-package desktop+ evil-leader key-chord hl-line+ omnisharp icicles powerline-evil powerline init-open-recentf browse-kill-ring ido-vertical-mode persistent-scratch window-numbering window-number expand-region ace-jump-mode eldoc-eval company dash epl goto-chg pkg-info popup s undo-tree flycheck linum-relative neotree evil ample-theme moe-theme csharp-mode yasnippet auto-complete))))
 
 
 ;; General Setup
@@ -154,6 +154,9 @@ sFilename: ")
                              file)))))
   (shell-command (concat "start " path " /D .")))
 
+;; Set xaml auto mode
+(add-to-list 'auto-mode-alist '("\\.xaml\\'" . nxml-mode))
+
 ;; Omnisharp Setup
 (setq omnisharp--curl-executable-path "C:/Program Files (x86)/Curl/curl.exe")
 (setq omnisharp-server-executable-path "C:/Program Files (x86)/omnisharp-server/OmniSharp/bin/Debug/OmniSharp.exe")
@@ -225,6 +228,7 @@ sFilename: ")
 (setq omnisharp-debug t)
 
 (global-set-key (kbd "C-c C-n") 'goto-HIS-File)
+(evil-leader/set-key "o" 'goto-HIS-File)
 
 ;; Evil-Mode
 (require 'evil)
